@@ -16,8 +16,7 @@
 * Screenshot of running java Hello
 * Screenshot of running Andriod Studio - My First App
 * git commands w/short descriptions
-* Bitbucket repo links a) This assignment and b) The completed above (bitbucketstationlocations and myteamquotes).
-
+* Bitbucket repository link
 #### Git commands w/short descriptions:
 
 1. git init - Create an empty Git repository or reinitialize an existing one
@@ -41,3 +40,8 @@
 *Screenshot of Android Studio - My First App*:
 
 ![Android Studio Installation Screenshot](img/android.png)
+
+#### Repository Links:
+
+*Bitbucket Repository*
+[Bitbucket Repository Link](https://bitbucket.org/marktrombly/lis4381/src/master/ "Bitbucket Repository Link")
