@@ -17,6 +17,7 @@
 * Screenshot of running Andriod Studio - My First App
 * git commands w/short descriptions
 * Bitbucket repository link
+
 #### Git commands w/short descriptions:
 
 1. git init - Create an empty Git repository or reinitialize an existing one
