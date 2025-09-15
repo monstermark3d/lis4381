@@ -15,7 +15,10 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - TBD
+    - Screenshot of android application 'Banana Bread Recipe'
+    - Skillset 1 - Even or Odd
+    - Skillset 2 - Largest Number
+    - Skillset 3 - Arrays and Loops
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
