@@ -50,7 +50,5 @@ public class Methods
             loopCount++;
         }
         while (loopCount < myArray.length);
-      
-
     }
 }

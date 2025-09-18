@@ -14,7 +14,7 @@ public class Methods
         System.out.println();  //print blank line
     }
 
-    public static void evenorodd()
+    public static void evenOrOdd()
     {
         
         System.out.print("Enter integer: ");
@@ -31,6 +31,6 @@ public class Methods
             System.out.println(number + " is an odd number.");
         }
 
-
+        sc.close();
     }
 }

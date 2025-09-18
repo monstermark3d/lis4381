@@ -40,6 +40,6 @@ public class Methods
             System.out.println("Integers are equal.");
         }
 
-
+        sc.close();
     }
 }

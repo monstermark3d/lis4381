@@ -8,6 +8,6 @@ class Main
  {
     //call static void methods (ie. no object, non-value returning)
     Methods.getRequirements();
-    Methods.evenorodd();
+    Methods.evenOrOdd();
  }
 }
