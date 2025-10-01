@@ -41,7 +41,7 @@
 
 #### Screenshot of Android Studio Application - My Event:
 
- ![Screen 1](img\my_event.gif "Android Application Screen 1 image")
+![Screen 1](img\my_event.gif "Android Application Screen 1 image")
 
 
 
