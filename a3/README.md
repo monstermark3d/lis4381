@@ -43,9 +43,9 @@
 
 
 
-| <span style="font-size: 20px;">      </span> |   <span style="font-size: 20px;">My Event</span>    | <span style="font-size: 20px;">     </span> |
+| |   <span style="font-size: 20px;">My Event</span>    | |
 | :--------------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
-| <span style="font-size: 20px;">     </span> |  ![Screen 1](img\my_event.gif "Android Application Screen 1 image"){height=25% width=25%} |<span style="font-size: 20px;">    </span>  |
+|  |  ![Screen 1](img\my_event.gif "Android Application Screen 1 image")| |
 
 
 
