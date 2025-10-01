@@ -42,7 +42,7 @@
 #### Screenshot of Android Studio Application - My Event:
 
 <p align="center">
-    <img src="img\my_event.gif" width="25%" height="25%">
+    <img src="img\my_event.gif?raw" width="25%" height="25%">
 </p>
 
 |Skillset 4 - Decision Structures|Skillset 5 - Random Number Generator|Skillset 6 - Methods|
