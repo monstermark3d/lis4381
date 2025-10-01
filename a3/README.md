@@ -41,9 +41,13 @@
 
 #### Screenshot of Android Studio Application - My Event:
 
-<p align="center">
-    <img src="img\my_event.gif?raw" width="25%" height="25%">
-</p>
+
+
+| <span style="font-size: 20px;">      </span> |   <span style="font-size: 20px;">My Event</span>    | <span style="font-size: 20px;">     </span> |
+| :--------------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+| <span style="font-size: 20px;">     </span> |  ![Screen 1](img\my_event.gif "Android Application Screen 1 image"){height=25% width=25%} |<span style="font-size: 20px;">    </span>  |
+
+
 
 |Skillset 4 - Decision Structures|Skillset 5 - Random Number Generator|Skillset 6 - Methods|
 |--------|--------|--------|
