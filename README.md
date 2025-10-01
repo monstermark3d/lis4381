@@ -15,13 +15,17 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - Screenshot of android application 'Banana Bread Recipe'
-    - Skillset 1 - Even or Odd
-    - Skillset 2 - Largest Number
-    - Skillset 3 - Arrays and Loops
+    - Create mobile application with Andrioid Studio to display a healthy recipe -  'Banana Bread Recipe'
+    - Complete Skillset 1 - Even or Odd
+    - Complete Skillset 2 - Largest Number
+    - Complete Skillset 3 - Arrays and Loops
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Create mobile application with Android Studio that calculates concert ticket prices.
+    - Create a database with MySQL Workbench
+    - Complete Skillset 4 - Decision Structures
+    - Complete Skillset 5 - Random Number Generator
+    - Complete Skillset 6 - Methods
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD

@@ -6,32 +6,49 @@
 
 *Six Parts:*
 
-1. Android Studio application - .
-2. Create Database using MySQL Workbench.
-2. Skillset 4 - .
-3. Skillset 5 - .
-4. Skillset 6 - .
+1. Android Studio application - My Event.
+2. Create Database using MySQL Workbench and Forward engineer Database.
+2. Skillset 4 - Decision Structures.
+3. Skillset 5 - Random Number Generator.
+4. Skillset 6 - Methods.
 5. Chapter Questions (Ch 5,6)
 
 #### README.md file includes the following items:
 
-* Screenshot of running Android Studio application -  Screen 1
-* Screenshot of running Android Studio application -  Screen 2
-* Screenshot Skillset 4 - 
-* Screenshot Skillset 5 - 
-* Screenshot Skillset 6 - 
+* Screenshot of ERD
+* Screenshot of 10 records for each table
+* Link to SQL Workbench model file: a3.mwb
+* Link to SQL Script File: a3.sql
+* Screenshot of running Android Studio Application -  My Event
+* Screenshot Skillset 4 - Decision Structures
+* Screenshot Skillset 5 - Random Number Generator
+* Screenshot Skillset 6 - Methods
 * Bitbucket repository link
 
 #### Assignment Screenshots:
 
-| <span style="font-size: 20px;">Screen 1</span> |       | <span style="font-size: 20px;">Screen 2</span> |
-| :--------------------------------------------: | ----- | :--------------------------------------------: |
-| ![Screen 1](img/screen1.png "Android Application Screen 1 image") |         | ![Screen 1](img/screen2.png "Android Application Screen 2 image") |
+#### Screenshot of ERD:
 
-|Skillset 1 - Even or Odd|Skillset 2 - Largest Number|Skillset 3 - Arrays and Loops|
+![Screenshot of ERD](img/a3_erd.png "Link to ERD")
+
+[Link to A3.mwb](docs/a3.mwb "Link to A3.mwb")
+
+[Link to A3.sql](docs/a3.sql "Link to A3.sql")
+
+#### Screenshot of Data Records:
+
+![Screenshot of Data Records](img/a3_data.png "Screenshot of Data Records")
+
+#### Screenshot of Android Studio Application - My Event:
+
+<p align="center">
+    <img src="img\my_event.gif" width="25%" height="25%">
+</p>
+
+|Skillset 4 - Decision Structures|Skillset 5 - Random Number Generator|Skillset 6 - Methods|
 |--------|--------|--------|
-|[Link to Skillset 1 Code](../skillsets/1_Even_Or_Odd/ "Link to Skillset 1 Code")|[Link to Skillset 2 Code](../skillsets/2_Largest_Number/ "Link to Skillset 2 Code")|[Link to Skillset 3 Code](../skillsets/3_Arrays_And_Loops/ "Link to Skillset 3 Code") 
-|![Skillset 1 Even or Odd](img/evenorodd.png "Skillset 1 Even or Odd")|![Skillset 2 Largest Number](img/largestnumber.png "Skillset 2 Largest Number")|![Skillset 3](img/arraysandloops.png "Skillset 3 Arrays and Loops")|
+|[Link to Skillset 4 Code](../skillsets/4_Decision_Structures/ "Link to Skillset 4 Code")|[Link to Skillset 5 Code](../skillsets/5_Random_Number_Generator/ "Link to Skillset 5 Code")|[Link to Skillset 6 Code](../skillsets/6_Methods/ "Link to Skillset 6 Code") 
+|![Skillset 4 Decision Structures](img/decisionstructures.png "Skillset 4 Decision Structures")|![Skillset 5 Random Number Generator](img/randomnumgenerator.png "Skillset 5 Random Number Generator")|![Skillset 6](img/methods.png "Skillset 6 Methods")|
 
 #### Repository Links:
 
