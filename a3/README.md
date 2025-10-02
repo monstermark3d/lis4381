@@ -39,9 +39,11 @@
 
 ![Screenshot of Data Records](img/a3_data.png "Screenshot of Data Records")
 
-#### Screenshot of Android Studio Application - My Event:
+#### Screenshots of Android Studio Application - My Event:
 
-![Screen 1](img/my_event.gif "Android Application Screen 1 image")
+| My Event Vertical                                                                    |  My Event Horizontal                                                             |
+| :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| ![My Event Vertical](img/my_event.gif "Android Application My Event Vertical image") | ![My Event Horizontal](img/my_event_h.gif "Android Application My Event Horizontal image") |
 
 
 
