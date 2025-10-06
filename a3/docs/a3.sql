@@ -57,7 +57,7 @@ CREATE TABLE IF NOT EXISTS `mtrombly`.`petstore` (
   `pst_email` VARCHAR(100) NOT NULL,
   `pst_url` VARCHAR(100) NOT NULL,
   `pst_ytd_sales` DECIMAL(10,2) NOT NULL,
-  `pst_notes` VARCHAR(45) NULL,
+  `pst_notes` VARCHAR(255) NULL,
   PRIMARY KEY (`pst_id`))
 ENGINE = InnoDB;
 
