@@ -16,7 +16,7 @@
 #### README.md file includes the following items:
 
 * Screenshot of ERD
-* Screenshot of 10 records for each table
+* Screenshot from mymetadata.sql
 * Link to SQL Workbench model file: a3.mwb
 * Link to SQL Script File: a3.sql
 * Screenshot of running Android Studio Application -  My Event
@@ -35,7 +35,7 @@
 
 [Link to A3.sql](docs/a3.sql "Link to A3.sql")
 
-#### Screenshot of Data Records:
+#### Screenshot of myMetaData.sql:
 
 ![Screenshot of Data Records](img/a3_data.png "Screenshot of Data Records")
 
