@@ -28,7 +28,7 @@
     - Complete Skillset 6 - Methods
 
 4. [P1 README.md](p1/README.md "My P1 README.md file")
-    - Create mobile application with Android Studio that dispalys contact information.
+    - Create mobile application with Android Studio that displays contact information.
     - Complete Skillset 7 - Random Number Generator Data Validation 
     - Complete Skillset 8 - Largest Three Numbers
     - Complete Skillset 9 - Array Runtime Data Validation

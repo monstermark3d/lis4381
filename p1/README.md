@@ -10,7 +10,7 @@
 2. Skillset 4 - Decision Structures.
 3. Skillset 5 - Random Number Generator.
 4. Skillset 6 - Methods.
-5. Chapter Questions (Ch 5,6)
+5. Chapter Questions (Ch 7,8)
 
 #### README.md file includes the following items:
 
