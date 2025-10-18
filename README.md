@@ -27,13 +27,16 @@
     - Complete Skillset 5 - Random Number Generator
     - Complete Skillset 6 - Methods
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
+4. [P1 README.md](p1/README.md "My P1 README.md file")
+    - Create mobile application with Android Studio that dispalys contact information.
+    - Complete Skillset 7 - Random Number Generator Data Validation 
+    - Complete Skillset 8 - Largest Three Numbers
+    - Complete Skillset 9 - Array Runtime Data Validation
+
+5. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD
 
-5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
-
-6. [P1 README.md](p1/README.md "My P1 README.md file")
+6. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
