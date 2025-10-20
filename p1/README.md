@@ -7,9 +7,9 @@
 *Five Parts:*
 
 1. Android Studio application - My Business Card.
-2. Skillset 4 - Decision Structures.
-3. Skillset 5 - Random Number Generator.
-4. Skillset 6 - Methods.
+2. Skillset 7 - Random Number Generator Data Validation.
+3. Skillset 8 - Largest Three Numbers.
+4. Skillset 9 - Array Runtime Data Validation.
 5. Chapter Questions (Ch 7,8)
 
 #### README.md file includes the following items:
