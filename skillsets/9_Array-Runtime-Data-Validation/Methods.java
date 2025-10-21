@@ -10,9 +10,9 @@ public class Methods
         //display operational messages
         System.out.println( "Developer: Mark Trombly");
         System.out.println( "1) Program creates array size at run-time.\n" +
-                            "2) Program dispalys array size.\n" +
+                            "2) Program displays array size.\n" +
                             "3) Program rounds sum and average of numbers to two decimal places.\n" +
-                            "4) Numbers *must* be folat data type, nt double.");
+                            "4) Numbers *must* be float data type, not double.");
 
         System.out.println();  //print blank line
     }

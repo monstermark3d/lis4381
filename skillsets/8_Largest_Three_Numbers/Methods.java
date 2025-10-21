@@ -29,6 +29,7 @@ public class Methods
                 System.out.print("Please try again. Enter first number: ");
             }
         num1 = sc.nextInt();
+        System.out.println();
 
         System.out.print("Please enter second number: ");
 
@@ -39,6 +40,7 @@ public class Methods
                 System.out.print("Please try again. Enter second number: ");
             }
         num2 = sc.nextInt();
+        System.out.println();
 
         System.out.print("Please enter third number: ");
 
@@ -59,11 +61,11 @@ public class Methods
         System.out.println("Numbers entered: " + num1 + ", " + num2 + ", " + num3);
 
         if ( num1 > num2 && num1 > num3 )
-            System.out.println(num1 + " is largest.");
+            System.out.println("First number is largest.");
         else if ( num2 > num1 && num2 > num3)
-            System.out.println(num1 + " is largest.");
+            System.out.println("Second number is largest.");
         else if ( num3 > num1 && num3 > num2 )
-            System.out.println(num3 + " is largest.");
+            System.out.println("Third number is largest.");
         else
             System.out.println("Integers are equal.");
     }
