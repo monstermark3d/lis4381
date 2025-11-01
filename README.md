@@ -34,7 +34,11 @@
     - Complete Skillset 9 - Array Runtime Data Validation
 
 5. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+    - Create PHP page for petstore using Bootstrap for .
+    - Show client-side data validation using regular expressions.
+    - Skillset 10 - Array List
+    - Skillset 11 - Alpha Numeric Special
+    - Skillset 12 - Temperature Conversion
 
 6. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD

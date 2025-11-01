@@ -8,9 +8,9 @@
 
 1. Create PHP page for petstore using Bootstrap for .
 2. Show client-side data validation using regular expressions.
-2. Skillset 10 -
-3. Skillset 11 -
-4. Skillset 12 -
+2. Skillset 10 - Array List
+3. Skillset 11 - Alpha Numeric Special
+4. Skillset 12 - Temperature Conversion
 5. Chapter Questions (Ch 9,10)
 
 #### README.md file includes the following items:
@@ -18,9 +18,9 @@
 * Screenshot of Main page
 * Screenshot of Failed validation
 * Screenshot of Passed validation
-* Screenshot Skillset 10 - 
-* Screenshot Skillset 11 - 
-* Screenshot Skillset 12 - 
+* Screenshot Skillset 10 - Array List
+* Screenshot Skillset 11 - Alpha Numeric Special
+* Screenshot Skillset 12 - Temperature Conversion
 * Bitbucket repository link
 
 #### Assignment Screenshots:
