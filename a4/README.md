@@ -11,7 +11,7 @@
 2. Skillset 10 - Array List
 3. Skillset 11 - Alpha Numeric Special
 4. Skillset 12 - Temperature Conversion
-5. Chapter Questions (Ch 9,10)
+5. Chapter Questions (Ch 9,10,15)
 
 #### README.md file includes the following items:
 
