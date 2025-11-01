@@ -25,7 +25,7 @@
 
 | <span style="font-size: 20px;">Screen 1</span> |       | <span style="font-size: 20px;">Screen 2</span> |
 | :--------------------------------------------: | ----- | :--------------------------------------------: |
-| ![Screen 1](img/screen1.png "Android Application Screen 1 image") |         | ![Screen 1](img/screen2.png "Android Application Screen 2 image") |
+| ![Screen 1](img/screen1.png "Android Application Screen 1 image") |         | ![Screen 2](img/screen2.png "Android Application Screen 2 image") |
 
 |Skillset 1 - Even or Odd|Skillset 2 - Largest Number|Skillset 3 - Arrays and Loops|
 |--------|--------|--------|

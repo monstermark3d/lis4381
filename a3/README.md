@@ -46,6 +46,7 @@
 | ![My Event Vertical](img/my_event.gif "Android Application My Event Vertical image") | ![My Event Horizontal](img/my_event_h.gif "Android Application My Event Horizontal image") |
 
 
+#### Skillsets:
 
 |Skillset 4 - Decision Structures|Skillset 5 - Random Number Generator|Skillset 6 - Methods|
 |--------|--------|--------|
