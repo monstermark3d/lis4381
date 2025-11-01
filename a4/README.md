@@ -6,8 +6,8 @@
 
 *Six Parts:*
 
-1. Create PHP page for petstore using Bootstrap for .
-2. Show client-side data validation using regular expressions.
+1. Create PHP page using Bootstrap to show client side data validation for petstore entity.
+2. Show use of regular expressions.
 2. Skillset 10 - Array List
 3. Skillset 11 - Alpha Numeric Special
 4. Skillset 12 - Temperature Conversion
