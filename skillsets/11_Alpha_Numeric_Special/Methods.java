@@ -11,7 +11,7 @@ public class Methods
     {
         //display operational messages
         System.out.println( "Developer: Mark Trombly");
-        System.out.println( "Programdetermines whether user-entered value is alpha, numeric, or special character.\n" +
+        System.out.println( "Program determines whether user-entered value is alpha, numeric, or special character.\n" +
                             "References:\n" +
                             "ASCII Background: https://en.wikipedia.org/wiki/ASCII\n" +
                             "ASCII Character Table: https://www.ascii-code.com/\n" +
@@ -25,6 +25,7 @@ public class Methods
        Scanner sc = new Scanner(System.in);
        char ch = ' ';
 
+       System.out.print("Enter character: ");
        ch = sc.next().charAt(0);
 
        if((ch >= 'a' && ch <= 'z') || (ch >='A' && ch <= 'Z'))
@@ -39,5 +40,6 @@ public class Methods
           {
             System.out.println(ch + " is special character. ASCII value: " + (int) ch);
           }
+          sc.close();
     }
 }
