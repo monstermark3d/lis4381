@@ -27,7 +27,7 @@
 
 #### Screenshot of Main page:
 
-![Screenshot of ERD](img/main.png "Link to ERD")
+![Screenshot of ERD](img/main.gif "Link to ERD")
 
 #### Screenshot of Failed validation:
 
