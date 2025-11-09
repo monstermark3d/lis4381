@@ -41,7 +41,12 @@
     - Skillset 12 - Temperature Conversion
 
 6. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Create PHP petstore app using Bootstrap to show client side and server side data validation.
+    - Connect PHP petstore application to database for adding records.
+    - Skillset 13 - Sphere Volume Calculator
+    - Skillset 14 - PHP : Simple Calculator
+    - Skillset 15 - PHP : Write/Read File
+    - Chapter Questions (Ch 11,12, 19)
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD

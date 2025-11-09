@@ -6,51 +6,69 @@
 
 *Six Parts:*
 
-1. Android Studio application - My Event.
-2. Create Database using MySQL Workbench and Forward engineer Database.
-2. Skillset 13 - 
-3. Skillset 14 -
-4. Skillset 15 -
-5. Chapter Questions (Ch 11,12)
+1. Create PHP petstore app using Bootstrap to show client side and server side data validation.
+2. Connect PHP petstore application to database for adding records.
+3. Skillset 13 - Sphere Volume Calculator
+4. Skillset 14 - PHP : Simple Calculator
+5. Skillset 15 - PHP : Write/Read File
+6. Chapter Questions (Ch 11,12, 19)
 
 #### README.md file includes the following items:
 
-* Screenshot of ERD
-* Screenshot from mymetadata.sql
-* Link to SQL Workbench model file: a3.mwb
-* Link to SQL Script File: a3.sql
-* Screenshot of running Android Studio Application -  My Event
-* Screenshot Skillset 13 -
-* Screenshot Skillset 14 -
-* Screenshot Skillset 15 -
+* Screenshot of Petstore Main page
+* Screenshot of Petstore Add Invalid Data (Client Side)
+* Screenshot of Petstore Add Failed Validation (Server Side)
+* Screenshot of Petstore Add Valid Data (Client Side)
+* Screenshot of Petstore Add Passed Validation (Server Side)
+* Screenshot Skillset 13 - Sphere Volume Calculator
+* Screenshot Skillset 14 - PHP : Simple Calculator
+* Screenshot Skillset 15 - PHP : Write/Read File
 * Bitbucket repository link
 
 #### Assignment Screenshots:
 
-#### Screenshot of ERD:
+#### Screenshot of Main page:
 
-![Screenshot of ERD](img/a3_erd.png "Link to ERD")
+![Screenshot of Main page](img/main.png "Screenshot of main page")
 
-[Link to A3.mwb](docs/a3.mwb "Link to A3.mwb")
+#### Screenshot of Invalid Data:
 
-[Link to A3.sql](docs/a3.sql "Link to A3.sql")
+![Screenshot of Invalid Data](img/invalid.png "Screenshot of Invalid Data")
 
-#### Screenshot of myMetaData.sql:
+#### Screenshot of Failed validation:
 
-![Screenshot of Data Records](img/a3_data.png "Screenshot of Data Records")
+![Screenshot of Failed validation](img/failed.png "Screenshot of failed validation")
 
-#### Screenshots of Android Studio Application - My Event:
+#### Screenshots of Valid Data:
 
-| My Event Vertical                                                                    |  My Event Horizontal                                                             |
-| :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| ![My Event Vertical](img/my_event.gif "Android Application My Event Vertical image") | ![My Event Horizontal](img/my_event_h.gif "Android Application My Event Horizontal image") |
+![Screenshots of Valid Data](img/valid.png "Screenshots of Valid Data")
 
+#### Screenshots of Passed validation:
 
+![Screenshot of Passed validation](img/passed.png "Screenshot of passed validation")
 
-|Skillset 4 - Decision Structures|Skillset 5 - Random Number Generator|Skillset 6 - Methods|
+#### Skillsets:
+
+|Skillset 13 - Sphere Volume Calculator|Skillset 14 - PHP : Simple Calculator|Skillset 15 - PHP : Write/Read File|
 |--------|--------|--------|
-|[Link to Skillset 4 Code](../skillsets/4_Decision_Structures/ "Link to Skillset 4 Code")|[Link to Skillset 5 Code](../skillsets/5_Random_Number_Generator/ "Link to Skillset 5 Code")|[Link to Skillset 6 Code](../skillsets/6_Methods/ "Link to Skillset 6 Code") 
-|![Skillset 4 Decision Structures](img/decisionstructures.png "Skillset 4 Decision Structures")|![Skillset 5 Random Number Generator](img/randomnumgenerator.png "Skillset 5 Random Number Generator")|![Skillset 6](img/methods.png "Skillset 6 Methods")|
+|[Link to Skillset 13 Code](../skillsets/13_Sphere_Volume_Calculator/ "Link to Skillset 13 Code")|[Link to Skillset 14 Code](../skillsets/14_Simple_Calculator/ "Link to Skillset 14 Code")|[Link to Skillset 15 Code](../skillsets/15/Write_Read_File/ "Link to Skillset 15 Code") 
+|[![Skillset 13 - Sphere Volume Calculator](img/.png "Skillset 13 - Sphere Volume Calculator")](img/.png)|[![Skillset 14 - PHP : Simple Calculator](img/.png "Skillset 14 - PHP : Simple Calculator")](img/.png)|[![Skillset 15 - PHP : Write/Read File](img/.png "Skillset 15 - PHP : Write/Read File")](img/.png)|
+
+#### Link to Local web app:
+
+*Local Application*
+[Local App Link](http://localhost/repos/4381/index.php "Local App Link")
+
+
+#### Link to Simple Calculator web app:
+
+*Simple Calculator Application*
+[Simple Calculator App Link](http://localhost/repos/4381/simple_calculator/ "Simple Calculator App Link")
+
+#### Link to Write/Read Text File web app:
+
+*Write/Read Text File Application*
+[Write/Read Text File App Link](http://localhost/repos/4381/write_read_file/ "Write/Read Text File App Link")
 
 #### Repository Links:
 

@@ -8,10 +8,10 @@
 
 1. Create PHP page using Bootstrap to show client side data validation for petstore entity.
 2. Show use of regular expressions.
-2. Skillset 10 - Array List
-3. Skillset 11 - Alpha Numeric Special
-4. Skillset 12 - Temperature Conversion
-5. Chapter Questions (Ch 9,10,15)
+3. Skillset 10 - Array List
+4. Skillset 11 - Alpha Numeric Special
+5. Skillset 12 - Temperature Conversion
+6. Chapter Questions (Ch 9,10,15)
 
 #### README.md file includes the following items:
 
@@ -27,15 +27,15 @@
 
 #### Screenshot of Main page:
 
-![Screenshot of ERD](img/main.gif "Link to ERD")
+![Screenshot of Main page](img/main.gif "Screenshot of main page")
 
 #### Screenshot of Failed validation:
 
-![Screenshot of Data Records](img/failed.png "Screenshot of Data Records")
+![Screenshot of Failed validation](img/failed.png "Screenshot of failed validation")
 
 #### Screenshots of Passed validation:
 
-![Screenshot of Data Records](img/passed.png "Screenshot of Data Records")
+![Screenshot of Passed validation](img/passed.png "Screenshot of passed validation")
 
 #### Skillsets:
 
