@@ -11,7 +11,7 @@
 3. Skillset 13 - Sphere Volume Calculator
 4. Skillset 14 - PHP : Simple Calculator
 5. Skillset 15 - PHP : Write/Read File
-6. Chapter Questions (Ch 11,12, 19)
+6. Chapter Questions (Ch 11,12,19)
 
 #### README.md file includes the following items:
 
@@ -51,7 +51,7 @@
 
 |Skillset 13 - Sphere Volume Calculator|Skillset 14 - PHP : Simple Calculator|Skillset 15 - PHP : Write/Read File|
 |--------|--------|--------|
-|[Link to Skillset 13 Code](../skillsets/13_Sphere_Volume_Calculator/ "Link to Skillset 13 Code")|[Link to Skillset 14 Code](../skillsets/14_Simple_Calculator/ "Link to Skillset 14 Code")|[Link to Skillset 15 Code](../skillsets/15/Write_Read_File/ "Link to Skillset 15 Code") 
+|[Link to Skillset 13 Code](../skillsets/13_Sphere_Volume_Calculator/ "Link to Skillset 13 Code")|[Link to Skillset 14 Code](../skillsets/14_Simple_Calculator/ "Link to Skillset 14 Code")|[Link to Skillset 15 Code](../skillsets/15_Write_Read_File/ "Link to Skillset 15 Code") 
 |[![Skillset 13 - Sphere Volume Calculator](img/.png "Skillset 13 - Sphere Volume Calculator")](img/.png)|[![Skillset 14 - PHP : Simple Calculator](img/.png "Skillset 14 - PHP : Simple Calculator")](img/.png)|[![Skillset 15 - PHP : Write/Read File](img/.png "Skillset 15 - PHP : Write/Read File")](img/.png)|
 
 #### Link to Local web app:
