@@ -46,7 +46,6 @@
     - Skillset 13 - Sphere Volume Calculator
     - Skillset 14 - PHP : Simple Calculator
     - Skillset 15 - PHP : Write/Read File
-    - Chapter Questions (Ch 11,12, 19)
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD
