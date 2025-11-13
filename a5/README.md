@@ -52,7 +52,7 @@
 |Skillset 13 - Sphere Volume Calculator|Skillset 14 - PHP : Simple Calculator|Skillset 15 - PHP : Write/Read File|
 |--------|--------|--------|
 |[Link to Skillset 13 Code](../skillsets/13_Sphere_Volume_Calculator/ "Link to Skillset 13 Code")|[Link to Skillset 14 Code](../skillsets/14_Simple_Calculator/ "Link to Skillset 14 Code")|[Link to Skillset 15 Code](../skillsets/15_Write_Read_File/ "Link to Skillset 15 Code") 
-|[![Skillset 13 - Sphere Volume Calculator](img/.png "Skillset 13 - Sphere Volume Calculator")](img/.png)|[![Skillset 14 - PHP : Simple Calculator](img/.png "Skillset 14 - PHP : Simple Calculator")](img/.png)|[![Skillset 15 - PHP : Write/Read File](img/.png "Skillset 15 - PHP : Write/Read File")](img/.png)|
+|[![Skillset 13 - Sphere Volume Calculator](img/13_Sphere_Volume_Calculator.png "Skillset 13 - Sphere Volume Calculator")](img/13_Sphere_Volume_Calculator.png)|[![Skillset 14 - PHP : Simple Calculator](img/simple_calculator.gif "Skillset 14 - PHP : Simple Calculator")](img/simple_calculator.gif)|[![Skillset 15 - PHP : Write/Read File](img/write_read_file.gif "Skillset 15 - PHP : Write/Read File")](img/write_read_file.gif)|
 
 #### Link to Local web app:
 
