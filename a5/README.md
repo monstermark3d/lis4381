@@ -6,7 +6,7 @@
 
 *Six Parts:*
 
-1. Create PHP petstore app using Bootstrap to show client side and server side data validation.
+1. Create PHP petstore app using Bootstrap to show server side data validation.
 2. Connect PHP petstore application to database for adding records.
 3. Skillset 13 - Sphere Volume Calculator
 4. Skillset 14 - PHP : Simple Calculator
