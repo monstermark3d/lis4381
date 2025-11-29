@@ -48,4 +48,6 @@
     - Skillset 15 - PHP : Write/Read File
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Create PHP petstore app using Bootstrap to show server side data validation.
+    - Connect PHP petstore application to database for edit and delete records.
+    - Create RSS feed.

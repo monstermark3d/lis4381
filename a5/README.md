@@ -16,9 +16,9 @@
 #### README.md file includes the following items:
 
 * Screenshot of Petstore Main page
-* Screenshot of Petstore Add Invalid Data (Client Side)
+* Screenshot of Petstore Add Invalid Data (Server Side)
 * Screenshot of Petstore Add Failed Validation (Server Side)
-* Screenshot of Petstore Add Valid Data (Client Side)
+* Screenshot of Petstore Add Valid Data (Server Side)
 * Screenshot of Petstore Add Passed Validation (Server Side)
 * Screenshot Skillset 13 - Sphere Volume Calculator
 * Screenshot Skillset 14 - PHP : Simple Calculator
