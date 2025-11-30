@@ -59,7 +59,6 @@
 *Local Application*
 [Local App Link](http://localhost/repos/4381/index.php "Local App Link")
 
-
 #### Link to Simple Calculator web app:
 
 *Simple Calculator Application*
