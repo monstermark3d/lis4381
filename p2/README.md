@@ -7,7 +7,7 @@
 *Three Parts:*
 
 1. Create PHP petstore app using Bootstrap to show server side data validation.
-2. Connect PHP petstore application to database for adding records.
+2. Connect PHP petstore application to database for edit and delete records.
 3. Create RSS feed.
 
 #### README.md file includes the following items:
